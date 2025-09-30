@@ -1,0 +1,28 @@
+body{
+    font-family: helvetica, arial, sans-serif; color:000099;
+    background-color:#E6F7FA;
+  }
+  h1,h2,h3{
+    font-size: 2rem;
+    font-weight:100;
+    background-color:#cce2eb;
+    text-align: center;
+  }
+  p{
+    color:#13274d
+  }
+  .highlight{
+    color:#85ACD5;
+  }
+  #footer {
+    color: #0066cc;
+    background-color: #cce3eb;
+    font-size: 10px;
+    text-align: center;
+  }
+  .container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+
+  }
